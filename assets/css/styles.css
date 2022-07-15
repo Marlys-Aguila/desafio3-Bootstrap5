@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-green {
+  background-color: #28a745;
+}
+
+.brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.navbar .nav-size {
+  font-size: 1.2rem;
+}
+
+.card .card-body .card-title {
+  font-size: 1.4rem;
+}
+
+.card .card-body .p1, 
+.card .card-body .p2,
+.card .card-body .before,
+.footer-text
+{
+  color: #707070;
+}
+
+.card .card-body .p1 {
+  font-size: 1.1rem;
+  margin-bottom: 0;
+}
+
+.card .card-body .p2 {
+  font-size: 0.9rem;
+}
+
+.card .card-body .before {
+  font-size: 1rem;
+  text-decoration: line-through #70707090;
+}
+
+.card .card-body .after {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #28a745;
+}
+
+.form-width {
+  max-width: 28rem;
+}
+
+.form-title {
+  color: #fff;
+}
+
+form .btn {
+  font-size: 1.1rem;
+}
+
+form .margen-neg, 
+.footer-text
+{
+  margin-top: -0.7rem;
+}
+
+.new-height {
+  min-height: 32rem;
+}
